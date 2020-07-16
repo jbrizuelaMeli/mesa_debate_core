@@ -8,7 +8,7 @@ La idea es que en cada sesión podamos debatir sobre un tema central, generando 
 ## Metodología
 Las charlas se dividen en sesiones, donde un disertante expone un tema puntual, mientras que los oyentes pueden ir realizando consultas o agregar y aclarar ciertos temas a su vez.
 
-## Indice de sesiones
+## Índice de sesiones
 
 ### Sesión 1 - Reflection:
 
