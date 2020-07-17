@@ -12,7 +12,7 @@ Las charlas se dividen en sesiones, donde un disertante expone un tema puntual, 
 
 ### Sesión 1 - Reflection:
 
-- Link a presentación: https://docs.google.com/presentation/d/1it-SlyFa5YamV3DWgmM9bX3GiZ8DJQNBHARD3gOYlQE/edit?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1it-SlyFa5YamV3DWgmM9bX3GiZ8DJQNBHARD3gOYlQE/edit?usp=sharing)
 
 ### Sesión 2 - Sidecar Pattern:
 
