@@ -16,36 +16,36 @@ Las charlas se dividen en sesiones, donde un disertante expone un tema puntual, 
 
 ### Sesión 2 - Sidecar Pattern:
 
-- Link a presentación: https://docs.google.com/presentation/d/1-D-uZQgGr48knxFubYJzaKY3JiMSemdkTMb6LDyN-dY/edit?usp=sharing
-- Link a video: https://drive.google.com/file/d/17p0vnuRTV4e3xbe33CNjslIYKteezNdk/view?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1-D-uZQgGr48knxFubYJzaKY3JiMSemdkTMb6LDyN-dY/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/17p0vnuRTV4e3xbe33CNjslIYKteezNdk/view?usp=sharing)
 
 ### Sesión 3 - Concurrencia en Go:
 
-- Link a presentación: https://docs.google.com/presentation/d/1C_3SCtXuZe7dPEUYjQ53q59WBGmsPWVxQA7VXOQseVM/edit?usp=sharing
-- Link a video: https://drive.google.com/file/d/1on2BxcXbRe8JcqKVdE4gC_Gq_mMzakdA/view?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1C_3SCtXuZe7dPEUYjQ53q59WBGmsPWVxQA7VXOQseVM/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1on2BxcXbRe8JcqKVdE4gC_Gq_mMzakdA/view?usp=sharing)
 
 ### Sesión 4 - Migración de APIs
 
-- Link a presentación: https://docs.google.com/presentation/d/1w6jPVXrlqIRhkzAKf0SUduHtPRMFFNfuPDI6b3hMMlA/edit?usp=sharing
-- Link a video: https://drive.google.com/file/d/1s0U8N-WcX0zYFQeWcfnJdzeaOkwBV1Es/view?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1w6jPVXrlqIRhkzAKf0SUduHtPRMFFNfuPDI6b3hMMlA/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1s0U8N-WcX0zYFQeWcfnJdzeaOkwBV1Es/view?usp=sharing)
 
 ### Sesión 5 - errGroup
 
-- Link a presentación: https://docs.google.com/presentation/d/1YaxSG1B_2ZFz3VxX6jsB0sOHkfGs_3bfLQfgeK9dx78/edit?usp=sharing
-- Link a video: https://drive.google.com/file/d/1hExxt2xv_fOnBEGlcEjleMlfPOvE5mGx/view?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1YaxSG1B_2ZFz3VxX6jsB0sOHkfGs_3bfLQfgeK9dx78/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1hExxt2xv_fOnBEGlcEjleMlfPOvE5mGx/view?usp=sharing)
 
 ### Sesión 6 - Maturity Model
 
-- Link a presentación: https://docs.google.com/presentation/d/1KloC6oKi_xUeLbb-AkiNLfVO1jGcxTwpChxC9seNWt8/edit?usp=sharing
-- Link a video: https://drive.google.com/file/d/1hkhYjKcLx8bXHfMaUHI-h5gj_R4U1I9m/view?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1KloC6oKi_xUeLbb-AkiNLfVO1jGcxTwpChxC9seNWt8/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1hkhYjKcLx8bXHfMaUHI-h5gj_R4U1I9m/view?usp=sharing)
 
 ### Sesión 7 - Punteros en Go
 
-- Link a presentación: https://docs.google.com/presentation/d/1D3eLpNlOmM8UEO9WfiZVfizy46DwgbjniOMt6LWjE_I/edit?usp=sharing
-- Link a video: https://drive.google.com/file/d/1ZaRo7BxRPHV7dbhwSUEkcaWtDowPRl4a/view?usp=sharing
+- Link a [presentación](https://docs.google.com/presentation/d/1D3eLpNlOmM8UEO9WfiZVfizy46DwgbjniOMt6LWjE_I/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1ZaRo7BxRPHV7dbhwSUEkcaWtDowPRl4a/view?usp=sharing)
 
 ### Sesión 8 - Channels, Mutex
 
-- Link a presentación: https://docs.google.com/presentation/d/1f1mz-1dn_SXUCa94w3UIKjuQsab_EO9HumtO0mkMbgk/edit?usp=sharing
-- Link a video: 
+- Link a [presentación](https://docs.google.com/presentation/d/1f1mz-1dn_SXUCa94w3UIKjuQsab_EO9HumtO0mkMbgk/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1PW9UFyBRYCkWuRBW1xXCZDXqUhb_zRae/view?usp=sharing) 
 
