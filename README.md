@@ -49,3 +49,7 @@ Las charlas se dividen en sesiones, donde un disertante expone un tema puntual, 
 - Link a [presentación](https://docs.google.com/presentation/d/1f1mz-1dn_SXUCa94w3UIKjuQsab_EO9HumtO0mkMbgk/edit?usp=sharing)
 - Link a [video](https://drive.google.com/file/d/1PW9UFyBRYCkWuRBW1xXCZDXqUhb_zRae/view?usp=sharing) 
 
+### Sesión 9 - Defer en Go
+
+- Link a [presentación](https://docs.google.com/presentation/d/1iAsOw7HnDC5BwVx5ZQLsCRqJqaJWqCd_4zeMG2kRpUw/edit?usp=sharing)
+- Link a [video](https://drive.google.com/file/d/1QImHXEeOw1f62OWRqAOgxppyt_a3huGT/view?usp=sharing)
